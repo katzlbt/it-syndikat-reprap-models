@@ -12,3 +12,6 @@
 *.la
 *.a
 .DS_Store
+
+# Compiled gcode for RepRap
+*.gcode
